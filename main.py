@@ -1,4 +1,9 @@
+import os
+
 print("🤖 ALFRED AI Starting...")
+
+def fake_claude_response(user_input):
+    return f"[Simulated Claude Response] I understand: {user_input}"
 
 while True:
     user_input = input("You: ")
@@ -7,4 +12,5 @@ while True:
         print("ALFRED: Goodbye!")
         break
 
-    print("ALFRED: I'm still learning, but I understand you said:", user_input)
+    response = fake_claude_response(user_input)
+    print("ALFRED:", response)
