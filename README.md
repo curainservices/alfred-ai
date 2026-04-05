@@ -51,3 +51,6 @@ This is an open-source project. Contributions, ideas, and improvements are welco
 ## 📌 Status
 
 🚧 Early development stage — actively being built.
+
+
+Claude API integration (in progress)
