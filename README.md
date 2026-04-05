@@ -1,4 +1,5 @@
 # ALFRED AI 🤖
+🚀 Building the future of AI-powered automation
 
 ## 🚀 What is ALFRED?
 
@@ -54,3 +55,5 @@ This is an open-source project. Contributions, ideas, and improvements are welco
 
 
 Claude API integration (in progress)
+## 📬 Contact
+Created by Koushal — open to collaboration and improvements.
